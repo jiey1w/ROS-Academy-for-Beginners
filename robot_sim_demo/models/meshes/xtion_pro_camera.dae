@@ -46,6 +46,7 @@
             <transparent opaque="A_ONE">
               <color>1 1 1 1</color>
             </transparent>
+            <transparency><float>1</float></transparency>
             <transparency>
               <float>1</float>
             </transparency>
