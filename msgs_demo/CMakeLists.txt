@@ -34,7 +34,7 @@ add_service_files(DIRECTORY srv
 				)
 
 add_action_files(DIRECTORY action
-                     FILES 
+                     FILES
 					 AutoDocking.action
 					 AddTwoInts.action
 					 GetMap.action

@@ -135,7 +135,7 @@ include_directories(
 ## The recommended prefix ensures that target names across packages don't collide
  add_executable(name_demo src/name_demo.cpp)
 # add_dependencies(${PROJECT_NAME}_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
- 
+
 target_link_libraries(name_demo
    ${catkin_LIBRARIES}
  )
